@@ -1,0 +1,16 @@
+{
+    "BATCH_SIZE": 1,
+    "CHANNEL_NUM": 1,
+    "CHECKPOINTS_DIR": "./checkpoints/",
+    "EPOCH": 30,
+    "IS_TRAINING_FROM_BEGIN": "True",
+    "LEARNING_RATE": 4e-05,
+    "LOG_DIR": "./log/",
+    "NUM_TEST": 20,
+    "NUM_TRAIN": 810,
+    "PHASE": "train",
+    "PROB_PATH": " ",
+    "SAVE_PATH": " ",
+    "TEST_PATH": " ",
+    "TRAIN_PATH": " "
+}
