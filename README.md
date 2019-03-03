@@ -6,7 +6,7 @@
 
 ***
 
-Prerequisites
+### Prerequisites
 
 This code was tested in following environment setting:
 
@@ -14,7 +14,9 @@ This code was tested in following environment setting:
 
 ### Tensorflow (version = 1.4.0)
 
-### [skimage](http://scikit-image.org/) and [nibabel](http://nipy.org/nibabel/) need be installee
+#### The main package is installed:
+
+### [skimage](http://scikit-image.org/) and [nibabel](http://nipy.org/nibabel/) need be installed
 
 ###Usage
 
