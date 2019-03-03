@@ -16,7 +16,7 @@ This code was tested in following environment setting:
 
 #### The main package is installed:
 
-### [skimage](http://scikit-image.org/) and [nibabel](http://nipy.org/nibabel/) need be installed
+[skimage](http://scikit-image.org/) and [nibabel](http://nipy.org/nibabel/) need be installed
 
 ### Usage
 
@@ -25,8 +25,8 @@ First clone this repository:
 git clone https://github.com/wxde/USegNet-DS-HAS.git
 
 
-### Results
+### Results:
 
-### Contact
+### Contact:
 
 For queries contact me at xuwang753@google.com.
