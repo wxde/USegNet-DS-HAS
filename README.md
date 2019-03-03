@@ -18,7 +18,7 @@ This code was tested in following environment setting:
 
 ### [skimage](http://scikit-image.org/) and [nibabel](http://nipy.org/nibabel/) need be installed
 
-###Usage
+### Usage
 
 First clone this repository:
 
