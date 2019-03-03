@@ -25,10 +25,10 @@ First clone this repository:
 git clone https://github.com/wxde/USegNet-DS-HAS.git
 
 the stage folder is the first stage of auto-context
-'''
+```
 cd stage_1 
 python main.py
-'''
+```
 
 
 ### Results:
