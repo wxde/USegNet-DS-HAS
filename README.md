@@ -6,13 +6,13 @@
 
 ***
 
-### Prerequisites
+### Prerequisites:
 
 This code was tested in following environment setting:
 
-### Python (version = 3.5.0)
+* Python (version = 3.5.0)
 
-### Tensorflow (version = 1.4.0)
+* Tensorflow (version = 1.4.0)
 
 #### The main package is installed:
 
