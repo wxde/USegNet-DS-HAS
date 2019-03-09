@@ -14,10 +14,9 @@ info = {
     "NUM_TRAIN":2112,
     "EPOCH": 30,
     "NUM_TEST" : 50,
-    "SAVE_PATH": " ",
-    "TRAIN_PATH": " ",
-    "TEST_PATH": " ",
-    "PROB_PATH": " "
+    "SAVE_PATH": "./result",
+    "TRAIN_PATH": "./data/train/",
+    "TEST_PATH": "./data/test/ "
 }
 with open('info.json','w') as f:
     json.dump(info,f,sort_keys=True,indent=4)
